@@ -1,0 +1,3 @@
+interface:
+  display_name: "Go Events"
+  short_description: "Use OS signals and the typed event bus"
