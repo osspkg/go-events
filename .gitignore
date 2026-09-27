@@ -23,3 +23,11 @@ go.work.sum
 .tools/
 .idea/
 .vscode/
+bin/
+build/
+coverage.txt
+coverage.out
+*.db
+*.db-journal
+*.mmdb
+.env
