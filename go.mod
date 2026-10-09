@@ -1,3 +1,3 @@
 module go.osspkg.com/events
 
-go 1.21
+go 1.26
